@@ -1,3 +1,5 @@
+//commented out code indicates the previous attempt, compare with the final
+
 #include <iostream>
 #include <string>
 #include <iomanip> //used to set the width of each column in the table (setw() function)
